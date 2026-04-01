@@ -13,3 +13,7 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: portfolio
+  icon: 'fas fa-globe'
+  url: 'https://musiladev.vercel.app/'
