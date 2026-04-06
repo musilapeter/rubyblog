@@ -14,7 +14,7 @@ description: Portfolio and case studies — problems, ownership, decisions, trad
     <div class="work-hero__inner">
       <p id="work-hero-heading" class="work-hero__kicker">Portfolio</p>
       <p class="work-hero__lede">
-        A collection of things I’ve built, broken, and eventually fixed. Expect less “todo apps” and more real-world systems complete with questionable decisions, hard trade-offs, and the occasional “this seemed like a good idea at the time.” Each case study covers the problem, what I owned, the decisions I made, what went wrong, and what I’d absolutely do differently (given another sleepless night and enough coffee).
+        Real systems, not fake apps. Broken things I resurrected with bad calls, coffee, and stubborn hope. Each story shows the mess, my role, the fix, and what I'd torch in round two.
       </p>
     </div>
   </section>
