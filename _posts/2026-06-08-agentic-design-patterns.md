@@ -3,6 +3,7 @@ title: "Agentic Design Patterns: Why Prompting Is Not Enough"
 date: 2026-06-08 12:24:00 +0300
 categories: [Software Engineering, AI]
 tags: [llm, ai, agentic-workflows, prompt-engineering, architecture]
+image: /assets/img/posts/agentic_workflows.png
 ---
 
 Asking an LLM to write the final answer in one go is like telling a human to compose a novel without ever hitting backspace. A software engineer or AI developer must understand agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — because raw model power alone is no longer the bottleneck. The real leverage is in how you read, orchestrate, and iterate.
