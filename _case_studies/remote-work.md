@@ -6,7 +6,7 @@ categories: [Work, Experience]
 tags: [AI, React, WebSockets, Docker, Node.js, Microservices]
 card_icon: "fas fa-rocket"
 card_excerpt: "Embedded with enterprise clients to deploy AI-driven solutions, architect real-time systems, and modernize legacy infrastructure."
-order: 3
+order: 1
 ---
 
 ## Overview

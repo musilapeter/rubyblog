@@ -6,7 +6,7 @@ categories: [Work, Case Study]
 tags: [Next.js 16, TypeScript, Tailwind CSS v4, Supabase, Lucide React]
 card_icon: "fas fa-graduation-cap"
 card_excerpt: "A premium, free, open-source developer education platform guiding learners from their first line of HTML to architecting intelligent AI agents."
-order: 1
+order: 2
 ---
 
 ## Overview
@@ -32,4 +32,5 @@ The platform covers 6 progressive learning paths:
 Engineering a platform that balances deep educational content with premium user experience. The architecture needed to support 120+ lessons with real-time progress tracking, interactive code examples, and a cohesive learning journey that adapts to each learner's pace—all while maintaining instant page loads and glassmorphism aesthetics.
 
 ## Links
+- **Live Platform**: [sanegenius.com](https://sanegenius.com)
 - **Source Code**: [GitHub Repository](https://github.com/musilapeter)

@@ -6,7 +6,7 @@ categories: [Work, Case Study]
 tags: [FastAPI, Llama 3.1, ChromaDB, PostgreSQL, Docker, HuggingFace]
 card_icon: "fas fa-shield-alt"
 card_excerpt: "An intelligent AI chatbot for the Office of the Data Protection Commissioner Kenya, powered by Retrieval-Augmented Generation (RAG)."
-order: 2
+order: 3
 ---
 
 ## Overview
@@ -32,4 +32,5 @@ An intelligent AI chatbot for the Office of the Data Protection Commissioner (OD
 - **Multi-Turn Conversations**: Persistent session context for natural, flowing user interactions.
 
 ## Links
+- **ODPC Kenya**: [odpc.go.ke](https://www.odpc.go.ke/)
 - **Source Code**: [GitHub Repository](https://github.com/musilapeter)
