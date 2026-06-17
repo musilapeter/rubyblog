@@ -14,4 +14,4 @@ FastAPI is changing the way we build backends in Python. It's fast, typed, and p
 - **Type Safety**: Leveraging Python 3.6+ type hints to automatically validate requests.
 
 ### My First Project
-I used FastAPI for the **CoolHarlems Inventory System** to handle high-concurrency stock updates, and it performed beautifully under pressure.
+I used FastAPI for the **ODPC Kenya Shield Bot** to handle high-concurrency RAG queries against a ChromaDB vector database, and it performed beautifully under pressure.

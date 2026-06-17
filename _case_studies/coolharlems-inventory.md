@@ -1,31 +1,35 @@
 ---
-title: "CoolHarlems Inventory System — Offline-First PWA"
-date: 2026-03-30 11:35:00 +0300
+title: "ODPC Kenya Shield Bot — AI-Powered RAG Chatbot"
+short_title: "ODPC Kenya Shield Bot"
+date: 2026-06-01 11:35:00 +0300
 categories: [Work, Case Study]
-tags: [React, FastAPI, PostgreSQL, Supabase, PWA]
+tags: [FastAPI, Llama 3.1, ChromaDB, PostgreSQL, Docker, HuggingFace]
+card_icon: "fas fa-shield-alt"
+card_excerpt: "An intelligent AI chatbot for the Office of the Data Protection Commissioner Kenya, powered by Retrieval-Augmented Generation (RAG)."
+order: 2
 ---
 
 ## Overview
-Engineered a comprehensive, full-stack Inventory Management System featuring deep POS (Point of Sale) integration and offline-first Progressive Web App (PWA) capabilities for a medium-sized retail business.
+An intelligent AI chatbot for the Office of the Data Protection Commissioner (ODPC) Kenya, powered by Retrieval-Augmented Generation (RAG). The system automatically crawls the official ODPC website, indexes content into a ChromaDB vector database, and provides accurate, source-backed answers to queries about Kenyan data protection laws.
 
-## The Objective
-To create a dependable stock tracking and sales analytics platform that continues to function flawlessly even during internet outages, a vital requirement in low-connectivity retail environments. The system enables real-time automated inventory reconciliation across any device while keeping critical retail operations running offline.
-
-## System Architecture & Stack
-- **React & PWA**: A snappy, device-agnostic frontend leveraging IndexedDB to cache interactions locally when offline.
-- **FastAPI**: Handles backend orchestration, inventory math, and securely processes batched online synchronizations.
-- **PostgreSQL**: Serves as the central source of truth for stock quantities, reporting, and large-scale sales analytics.
-- **Supabase**: Real-time capabilities for dashboarding and rapid cross-device synchronization once connections are restored.
+## Key Features & Stack
+- **FastAPI**: High-performance async handling for rapid query processing and API orchestration.
+- **Llama 3.1 (Groq API)**: LLM backbone delivering accurate, context-aware responses about data protection regulations.
+- **ChromaDB**: Vector database for semantic search and efficient content retrieval from indexed ODPC documents.
+- **PostgreSQL**: Conversational memory storage for maintaining context across user sessions.
+- **Docker**: Containerized deployment for consistent, reproducible environments.
+- **HuggingFace Embeddings**: State-of-the-art sentence transformers for accurate document vectorization.
 
 ## The Technical Challenges
-- **Data Synchronization**: Complex bidirectional synchronization was required between the local IndexedDB stores and the central REST API.
-- **Transaction Integrity**: The hardest aspect was ensuring 100% data integrity during offline-to-online transitions to prevent stock desyncs (e.g. double-counting offline sales the moment connectivity returned).
+- **Automated Knowledge Base Construction**: Built a web crawler that automatically scrapes the ODPC Kenya website, processes legal documents, and indexes them into ChromaDB for real-time retrieval.
+- **Source Attribution**: Every response includes direct source links back to the official ODPC pages, ensuring transparency and verifiability of legal information.
+- **Conversational Memory**: PostgreSQL-backed session management allows multi-turn conversations where the bot remembers prior context within a session.
+- **Semantic Search Accuracy**: Fine-tuned embedding models and retrieval parameters to ensure highly relevant document chunks are surfaced for legal queries.
 
 ## Metrics & Impact
-- **100% Offline Uptime**: Achieved perfect reliability for critical checkout and sales logging tasks.
-- **Sub-500ms Response Times**: Fast localized operations via IndexedDB boosted checkout efficiency immensely.
-- **Server Load**: Greatly reduced sustained backend load by safely batching requests locally.
+- **Accurate Legal Responses**: Source-backed answers with direct links to official ODPC documentation.
+- **Automated Indexing**: Zero manual intervention required to keep the knowledge base current.
+- **Multi-Turn Conversations**: Persistent session context for natural, flowing user interactions.
 
 ## Links
-- **Live Platform**: [me-inventory.vercel.app](https://me-inventory.vercel.app/)
 - **Source Code**: [GitHub Repository](https://github.com/musilapeter)

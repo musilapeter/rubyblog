@@ -20,10 +20,10 @@ timezone:
 
 title: Musila Peter  # the main title
 
-tagline: Software Engineer, Data Driven cause Data is the New Oil # it will display as the sub-title
+tagline: Forward Deployed Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A MERN Stack software engineer specializing in building human-centered AI products and scalable digital systems. He focuses on full-stack development, AI integration, and data-driven engineering to streamline operations and drive sustainable growth.
+  A Forward Deployed Engineer specializing in bridging the gap between complex business logic and scalable software architecture. Embeds with clients to diagnose operational bottlenecks, design custom AI-driven solutions, and ensure seamless deployment into existing enterprise ecosystems.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://musila.dev"

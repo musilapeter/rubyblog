@@ -10,7 +10,7 @@ Hello world! Welcome to my blog. I'm excited to share my journey as a software e
 
 Expect posts on:
 - My latest projects and case studies.
-- Full-stack development with MERN and FastAPI.
+- Full-stack development with Python, AI systems, and FastAPI.
 - AI integrations and data science explorations.
 - Community events and hackathons.
 

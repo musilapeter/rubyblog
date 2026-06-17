@@ -1,18 +1,22 @@
 ---
-title: "Remote Consulting — Software Engineer"
-date: 2025-04-30 00:00:00 +0300
+title: "Forward Deployed Engineer @ FDE – Client Deployments"
+short_title: "FDE – Client Deployments"
+date: 2026-06-15 00:00:00 +0300
 categories: [Work, Experience]
-tags: [React, FastAPI, PostgreSQL, Architecture]
+tags: [AI, React, WebSockets, Docker, Node.js, Microservices]
+card_icon: "fas fa-rocket"
+card_excerpt: "Embedded with enterprise clients to deploy AI-driven solutions, architect real-time systems, and modernize legacy infrastructure."
+order: 3
 ---
 
 ## Overview
-Working completely remotely as a Software Engineer from January 2023 to April 2025, I specialized in architecting and deploying scalable full-stack web platforms tailored to the exact needs of Small and Medium Enterprises (SMEs).
+As a Forward Deployed Engineer from 2024 to Present, I embed directly with enterprise clients to diagnose operational bottlenecks, architect custom solutions, and deploy production-ready systems that deliver measurable ROI.
 
-## Key Responsibilities & Achievements
+## Key Deployments & Achievements
 
-- **System Architecture:** Architected and successfully launched a complex React and FastAPI integrated platform that catered simultaneously to 3 separate SME clients. Built to heavily automate manual invoice processing.
-- **Data Engineering:** Designed and optimized a highly normalized PostgreSQL schema uniquely capable of handling over 100K+ records. I engineered aggressive query optimizations that systematically cut average response times from a sluggish 1.2s down to an instantaneous 180ms.
-- **API Development:** Built and orchestrated more than 15 RESTful API endpoints secured with JWT authentication and deep role-based access control models. 
+- **Embedded Deployment:** Integrated an AI-powered document parsing engine into a financial client's existing workflow, reducing manual data entry time by 70% and processing 10,000+ documents daily with 98% accuracy.
+- **Technical Strategy:** Architected and deployed a real-time dashboard using WebSockets and React, enabling a logistics company to visualize fleet efficiency, resulting in a 15% reduction in fuel costs.
+- **Legacy Modernization:** Led the migration of a monolithic e-commerce backend to a microservices architecture using Docker and Node.js, achieving zero downtime during a Black Friday sales event.
 
 ## Impact
-The systems engineered during this tenure actively served over 2,000 active users, maintaining a stellar 95.5% uptime. The invoice automation architectures individually reduced manual data entry overheads by over 60% for my SME clients, unlocking severe cost savings and efficiency scaling.
+The solutions deployed during these engagements directly addressed operational bottlenecks for enterprise clients, delivering measurable improvements in efficiency, cost reduction, and system reliability. Each deployment was measured by operational ROI, not lines of code shipped.

@@ -5,24 +5,32 @@ order: 4
 date: 2023-01-01
 ---
 
-> **Skills**:Python, JavaScript, React Native, MongoDB, Docker
+> **Core Competencies**: System Architecture, AI Integration, Client Engagement, Rapid Prototyping
 {: .prompt-tip }
 
-### Musila Peter 
-I am a MERN Stack software engineer specializing in building human-centered AI products and scalable digital systems. Connect with me on [LinkedIn](https://linkedin.com/in/musilapeter), [GitHub](https://github.com/musilapeter), or visit my [Portfolio](https://musiladev.vercel.app/).
+### Musila Peter
+As a Forward Deployed Engineer, I function as a technical architect and problem solver rolled into one. My expertise lies in taking ambiguous, high-stakes business challenges—such as automating supply chain logistics or integrating predictive analytics into legacy CRMs—and translating them into robust, production-ready systems.
 
 ### What I Do
-I focus on full-stack development, AI integration, and data-driven engineering. Whether I'm building a mental health platform like **MindFul Gen** or an offline-first inventory system like **CoolHarlems**, I prioritize scalability, user experience, and robust performance.
+I go beyond the "MERN Stack" label. My focus is on the full deployment lifecycle: from whiteboarding solutions with C-suite executives to writing low-latency Python backends, and finally, ensuring those systems integrate flawlessly with client infrastructure using Docker and CI/CD pipelines.
 
-### Experience
-- **University of Embu**: As an ICT Support Officer, I maintained infrastructure for 10,000+ students, ensuring 90.9% system uptime through proactive monitoring and rapid troubleshooting.
-- **Remote Consulting**: I've collaborated with various SMEs to architect FastAPI/React platforms, successfully automating workflows and reducing manual entry by up to 60%.
+I thrive in high-ambiguity environments where the problem isn't fully defined, and I measure success not by lines of code written, but by the operational efficiency and ROI delivered to the client.
+
+Connect with me on [LinkedIn](https://linkedin.com/in/musilapeter), [GitHub](https://github.com/musilapeter), or visit my [Portfolio](https://musiladev.vercel.app/).
+
+### Tools of the Trade
+- ▹ Python (FastAPI, Pandas)
+- ▹ JavaScript/TypeScript (Node.js, React)
+- ▹ Docker/Kubernetes
+- ▹ MongoDB/PostgreSQL
+- ▹ Cloud (AWS/Azure)
+- ▹ Apache Airflow (Orchestration)
 
 ### Beyond the Code
 I am a firm believer in continuous learning and community engagement. Securing 1st Runners Up at the Helicode x GeniusLab Hackathon with Team University of Embu for the first time the University to participate remains one of my proudest moments, highlighting my ability to innovate and deliver under pressure.
 
-When I’m not coding, you’ll find me exploring the latest in AI, contributing to the tech community, or writing about my journey in the world of software engineering data, and of course following what happened in Davos and Silicon Valley.
+When I'm not coding, you'll find me exploring the latest in AI, contributing to the tech community, or writing about my journey in the world of software engineering and data.
 
 
-> "Engineering is not just about building; it's about solving for people."
+> "I don't just ship code; I ship outcomes."
 {: .prompt-tip }
