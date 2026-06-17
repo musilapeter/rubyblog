@@ -14,4 +14,4 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 # Windows file system watcher for faster live-reload
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw]
