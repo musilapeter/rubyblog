@@ -3,6 +3,9 @@ title: "University of Embu — ICT Support Officer"
 date: 2025-08-30 00:00:00 +0300
 categories: [Work, Experience]
 tags: [Infrastructure, Automation, Support]
+card_icon: "fas fa-university"
+card_excerpt: "Maintained mission-critical ICT infrastructure for 10,000+ students, achieving 90.9% uptime through proactive monitoring and workflow automation."
+order: 4
 ---
 
 ## Overview
